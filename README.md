@@ -4,7 +4,7 @@
 
 
 # 사용 언어
-1. Python
+1. Python 🐍
 2. SQL
 3. R
 
@@ -14,6 +14,7 @@
 * DeepLearning
 * Tensorflow
 * Pandas & Algorithm
+* Riding 🚴 & [Cooking](https://chef-sewon.github.io)🔪 
 
 
 <!--
