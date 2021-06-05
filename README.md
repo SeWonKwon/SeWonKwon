@@ -11,10 +11,12 @@
 3. R
 
 # 주요 관심사
+* Data Science
 * Object Detection
 * Computer vision
 * DeepLearning
 * Tensorflow
+* Data Visualization
 * Pandas & Algorithm
 * Riding 🚴 & [Cooking](https://chef-sewon.github.io)🔪 
 
