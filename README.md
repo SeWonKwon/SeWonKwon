@@ -6,7 +6,7 @@
 * 1 Commit a day
 
 # 사용 언어
-1. Python 🐍
+1. [Python](https://github.com/SeWonKwon/Python_from_scratch) 🐍
 2. SQL
 3. R
 
