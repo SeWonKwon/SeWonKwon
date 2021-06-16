@@ -17,7 +17,7 @@
 * DeepLearning.
 * Tensorflow.
 * Data Visualization.
-* Pandas & Algorithm.
+* [Pandas](https://github.com/SeWonKwon/Pandas-Numpy) & Algorithm.
 * Riding 🚴 & [Cooking](https://chef-sewon.github.io)🔪 
 
 #  
