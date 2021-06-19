@@ -1,4 +1,4 @@
-# Don't Trust Lazy Code Chef
+# Never Trust a Lazy Code Chef
 
 * Clean Code🤔
 * Attitude
