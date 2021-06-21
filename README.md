@@ -12,14 +12,14 @@
 
 # 주요 관심사
 * Data Science.
+* [Pandas](https://github.com/SeWonKwon/Pandas-Numpy) & Algorithm.
+* [Data Collection.](https://github.com/SeWonKwon/Data_Collection)
+* [Data Analysis.](https://github.com/SeWonKwon/Data_Analysis)
+* [Data Visualization.](https://github.com/SeWonKwon/Data_Visualization)
 * Object Detection.
 * Computer vision.
 * DeepLearning.
 * Tensorflow.
-* [Data Collection.](https://github.com/SeWonKwon/Data_Collection)
-* [Data Analysis.](https://github.com/SeWonKwon/Data_Analysis)
-* [Data Visualization.](https://github.com/SeWonKwon/Data_Visualization)
-* [Pandas](https://github.com/SeWonKwon/Pandas-Numpy) & Algorithm.
 * Riding 🚴 & [Cooking](https://chef-sewon.github.io)🔪 
 
 #  
