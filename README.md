@@ -8,7 +8,6 @@
 # 사용 언어
 1. [Python](https://github.com/SeWonKwon/Python_from_scratch) 🐍
 2. SQL
-3. R
 
 # 주요 관심사
 * [Data Science.](https://github.com/SeWonKwon/DataScience)
