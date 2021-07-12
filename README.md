@@ -1,9 +1,7 @@
 # Never Trust a Lazy Code Chef
-
-* Clean Code🤔
+* Clean Code🤔 with clear Explanation😄.
 * Attitude
 * Conversation
-* 1 Commit a day
 
 # 사용 언어
 1. [Python](https://github.com/SeWonKwon/Python_from_scratch) 🐍
