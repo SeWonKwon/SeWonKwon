@@ -13,7 +13,7 @@
 * [Data Collection.](https://github.com/SeWonKwon/Data_Collection)
 * [Data Analysis.](https://github.com/SeWonKwon/Data_Analysis)
 * [Data Visualization.](https://github.com/SeWonKwon/Data_Visualization)
-* [MachineLearning](https://github.com/SeWonKwon/Machine_Learning)
+* [MachineLearning.](https://github.com/SeWonKwon/Machine_Learning)
 * Object Detection.
 * Computer vision.
 * DeepLearning.
