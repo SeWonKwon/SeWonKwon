@@ -8,7 +8,6 @@
 2. SQL
 
 # 주요 관심사
-* [Data Science.](https://github.com/SeWonKwon/DataScience)
 * [Pandas](https://github.com/SeWonKwon/Pandas-Numpy) & [Algorithm](https://github.com/SeWonKwon/Python_from_scratch/tree/main/Python_Algorithm).
 * [Data Collection.](https://github.com/SeWonKwon/Data_Collection)
 * [Data Analysis.](https://github.com/SeWonKwon/Data_Analysis)
