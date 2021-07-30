@@ -2,7 +2,7 @@
 * Clean Code🤔 with clear Explanation😄.
 * Attitude
 * Conversation
-* Focus on 
+* Focus on Basics
 
 # 사용 언어
 1. [Python](https://github.com/SeWonKwon/Python_from_scratch) 🐍
